@@ -1,0 +1,14 @@
+D:\AALTI -Gladiator\EF\EFTest\EFTest\bin\Debug\EFTest.exe.config
+D:\AALTI -Gladiator\EF\EFTest\EFTest\bin\Debug\EFTest.exe
+D:\AALTI -Gladiator\EF\EFTest\EFTest\bin\Debug\EFTest.pdb
+D:\AALTI -Gladiator\EF\EFTest\EFTest\bin\Debug\EntityFramework.dll
+D:\AALTI -Gladiator\EF\EFTest\EFTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\AALTI -Gladiator\EF\EFTest\EFTest\bin\Debug\EntityFramework.xml
+D:\AALTI -Gladiator\EF\EFTest\EFTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\AALTI -Gladiator\EF\EFTest\EFTest\obj\Debug\EFTest.csprojAssemblyReference.cache
+D:\AALTI -Gladiator\EF\EFTest\EFTest\obj\Debug\EFTest.csproj.CoreCompileInputs.cache
+D:\AALTI -Gladiator\EF\EFTest\EFTest\obj\Debug\EFTest.csproj.CopyComplete
+D:\AALTI -Gladiator\EF\EFTest\EFTest\obj\Debug\EFTest.exe
+D:\AALTI -Gladiator\EF\EFTest\EFTest\obj\Debug\EFTest.pdb
+D:\AALTI -Gladiator\EF\EFTest\EFTest\obj\Debug\EFTest.Migrations.Create.resources
+D:\AALTI -Gladiator\EF\EFTest\EFTest\obj\Debug\EFTest.csproj.GenerateResource.cache
